@@ -1,0 +1,17 @@
+c:\users\francisco\documents\visual studio 2012\Projects\GenerarCodigos\GenerarCodigos\bin\Debug\GenerarCodigos.exe.config
+C:\Users\Francisco\Documents\Visual Studio 2012\Projects\GenerarCodigos\GenerarCodigos\bin\Debug\GenerarCodigos.exe
+C:\Users\Francisco\Documents\Visual Studio 2012\Projects\GenerarCodigos\GenerarCodigos\bin\Debug\GenerarCodigos.pdb
+C:\Users\Francisco\Documents\Visual Studio 2012\Projects\GenerarCodigos\GenerarCodigos\bin\Debug\ExcelLibrary.dll
+C:\Users\Francisco\Documents\Visual Studio 2012\Projects\GenerarCodigos\GenerarCodigos\obj\Debug\GenerarCodigos.csprojResolveAssemblyReference.cache
+C:\Users\Francisco\Documents\Visual Studio 2012\Projects\GenerarCodigos\GenerarCodigos\obj\Debug\GenerarCodigos.FORM.Asistencia.resources
+C:\Users\Francisco\Documents\Visual Studio 2012\Projects\GenerarCodigos\GenerarCodigos\obj\Debug\GenerarCodigos.Form1.resources
+C:\Users\Francisco\Documents\Visual Studio 2012\Projects\GenerarCodigos\GenerarCodigos\obj\Debug\punto_venta.Importar_Exportar_form.resources
+C:\Users\Francisco\Documents\Visual Studio 2012\Projects\GenerarCodigos\GenerarCodigos\obj\Debug\GenerarCodigos.Properties.Resources.resources
+C:\Users\Francisco\Documents\Visual Studio 2012\Projects\GenerarCodigos\GenerarCodigos\obj\Debug\GenerarCodigos.csproj.GenerateResource.Cache
+C:\Users\Francisco\Documents\Visual Studio 2012\Projects\GenerarCodigos\GenerarCodigos\obj\Debug\GenerarCodigos.exe
+C:\Users\Francisco\Documents\Visual Studio 2012\Projects\GenerarCodigos\GenerarCodigos\obj\Debug\GenerarCodigos.pdb
+C:\Users\Francisco\Documents\Visual Studio 2012\Projects\GenerarCodigos\GenerarCodigos\bin\Debug\GenerarCodigos.exe.manifest
+C:\Users\Francisco\Documents\Visual Studio 2012\Projects\GenerarCodigos\GenerarCodigos\bin\Debug\GenerarCodigos.application
+C:\Users\Francisco\Documents\Visual Studio 2012\Projects\GenerarCodigos\GenerarCodigos\obj\Debug\GenerarCodigos.exe.manifest
+C:\Users\Francisco\Documents\Visual Studio 2012\Projects\GenerarCodigos\GenerarCodigos\obj\Debug\GenerarCodigos.application
+C:\Users\Francisco\Documents\Visual Studio 2012\Projects\GenerarCodigos\GenerarCodigos\bin\Debug\BD\Pascuita.sdf
